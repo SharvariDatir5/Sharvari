@@ -28,7 +28,7 @@ Driven ML/AI enthusiast with strong foundations in data science, machine learnin
 
 ## 📂 Featured Projects
 
-### [1. Automated Customer Complaint Response System (NLP)]([projects/customer-complaint-nlp/](https://github.com/SharvariDatir5/NLP-Project))
+### [1. Automated Customer Complaint Response System (NLP)]([projects/customer-complaint-nlp/](https://github.com/SharvariDatir5/NLP-Project])
 - Automated sentiment classification for food delivery platforms.  
 - Compared SVM, Logistic Regression, and Naïve Bayes — SVM achieved **>90% accuracy**.  
 - Real-time complaint resolution with context-aware response generation.
