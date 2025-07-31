@@ -33,7 +33,7 @@ Driven ML/AI enthusiast with strong foundations in data science, machine learnin
 - Compared SVM, Logistic Regression, and Naïve Bayes — SVM achieved **>90% accuracy**.  
 - Real-time complaint resolution with context-aware response generation.
 
-### [2. Movie Recommendation System for Couples](projects/movie-recommendation-ml/)
+### [2. Movie Recommendation System for Couples](https://github.com/SharvariDatir5/ML-Project-1)
 - Content-based filtering with over 50 attributes per user.  
 - Achieved **61% accuracy and 58% recall (K=10)** on validation data.
 
